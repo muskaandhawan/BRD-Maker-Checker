@@ -1,1 +1,4 @@
 # BRD-Maker-Checker
+
+
+A BRD (Business Requirement Document) Maker Checker project lays down a software solution that automates the creation, review, and approval process of business requirement documents. The project involves two key roles: the BRD maker, who is responsible for creating, manipulating and deleting customer records, and the BRD checker, who reviews and approves/rejects the customer record. The solutionincludes a user-friendly interface for the BRD maker to input the necessary information and generate records, as well as a workflow system for the BRD checker to review and approve the document. This project is particularly useful for organizations that need to manage multiple BRDs simultaneously, as it can help streamline the process and ensure that all documents are consistent and accurate.
